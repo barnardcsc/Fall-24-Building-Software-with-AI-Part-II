@@ -19,7 +19,7 @@ This workshop continues where Part I left off, focusing on new ways to work with
 **Useful Links**
 
 - [Google Colab Notebook](https://colab.research.google.com/drive/1-1LQEYCTMgzxJbzwJCSXQl6r1qZDgiSl?usp=sharing)
-- [OpenAI Function Calling](https://platform.openai.com/docs/guides/gpt/function-calling)
+- [OpenAI Structured Outputs](https://platform.openai.com/docs/guides/structured-outputs)
 - [public.work](https://public.work)
 
 **Instructor**
